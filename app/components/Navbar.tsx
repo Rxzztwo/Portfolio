@@ -17,7 +17,7 @@ export default function Navbar() {
                 <div className="flex items-center">
                   <Link href="/">
                     <h1 className="text-2xl font-medium">
-                      Alex Duchon
+                      Portfolio
                     </h1>
                   </Link>
                 </div>
